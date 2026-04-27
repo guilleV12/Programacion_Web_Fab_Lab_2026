@@ -1,0 +1,36 @@
+h1 {
+  font-size: 2.5rem;
+  color: rgba(12, 12, 12, 0.59);
+  text-align: center;
+}
+
+.highlight {
+  font-size: medium;
+  color: #ff0000;
+}
+
+#cursive {
+  font-family: cursive;
+}
+
+.container {
+  display: flex;
+  justify-content: left;
+  background-color: aqua;
+}
+
+body {
+  background-color: wheat;
+}
+
+.espaciados {
+  justify-content: center;
+  align-items: center;
+  border: 2px solid black;
+  width: 200px;
+  height: 50px;
+  display: flex;
+  margin: 50px 20px;
+  margin-top: 100px;
+  padding: 20px;
+}
